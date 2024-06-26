@@ -1,0 +1,8 @@
+.content{
+    height: 350px;
+    display: flex;
+    height: 405px;
+    /* background-color: rgb(219, 219, 231); */
+    padding: 9px;
+    margin-top: 42px;
+}
